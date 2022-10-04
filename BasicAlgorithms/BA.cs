@@ -1,6 +1,6 @@
-﻿namespace Program
+﻿namespace BA
 {
-    internal static class Program
+    internal static class BA
     {
         internal static void Main()
         {
