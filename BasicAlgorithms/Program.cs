@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace Program
+{
+    internal static class Program
+    {
+        internal static void Main()
+        {
+            Console.WriteLine("Program!");
+        }
+    }
+}
