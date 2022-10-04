@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicAlgorithms", "BasicAlg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{A2B688A5-C134-40B2-9D0D-BBF9090E7474}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{7080A3D6-8D59-4D19-8BA4-46E55235D4FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A2B688A5-C134-40B2-9D0D-BBF9090E7474}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2B688A5-C134-40B2-9D0D-BBF9090E7474}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2B688A5-C134-40B2-9D0D-BBF9090E7474}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7080A3D6-8D59-4D19-8BA4-46E55235D4FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7080A3D6-8D59-4D19-8BA4-46E55235D4FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7080A3D6-8D59-4D19-8BA4-46E55235D4FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7080A3D6-8D59-4D19-8BA4-46E55235D4FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
